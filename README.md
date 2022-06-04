@@ -1,6 +1,6 @@
 ### Hello there, I'm Mahendra 👋
 
-# 🙂About Me:
+# About Me:
 - 🏫 I’m currently Studying Computer Science on 南京信息工程大学滨江学院
 - 🌱 I’m currently learning more about Java Spring Boot
 - 💬 Ask me about Laravel or any tech-related stuff.
