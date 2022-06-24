@@ -1,7 +1,7 @@
 ### Hello there, I'm Mahendra 👋
 
 # About Me:
-- 🏫 I’m currently Studying Computer Science on 南京信息工程大学滨江学院
+- 🏫 I’m currently Studying Computer Science on Nanjing University of Information Science Technology
 - 🌱 I’m currently learning more about React JS
 - 💬 Ask me about Laravel, Spring Boot or any tech-related stuff.
 - 📫 How to reach me: [Twitter](https://twitter.com/mfimahendra), [Instagram](https://www.instagram.com/mfimahendra_)
